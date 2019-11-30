@@ -53,11 +53,11 @@ Result
 
 ![img](./photo/075.png)  
 
-- THe result on slide 91  
+- THe result on slide 091  
 
 ![img](./photo/091.png)  
 
-- The result on slide 96 
+- The result on slide 096 
 
 ![img](./photo/096.png)  
 
