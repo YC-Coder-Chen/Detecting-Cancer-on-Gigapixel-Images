@@ -78,4 +78,4 @@ Final Deliverable
     - [Shared in Google storage](https://storage.cloud.google.com/adl-project-yc3526/weights-12-0.94.hdf5)  
 
 - Project Introduction
-    - [pdf version](./ADL_Present_Final.pdf)
+    - [Pdf version](./ADL_Present_Final.pdf)
