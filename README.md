@@ -43,7 +43,7 @@ Adopt similar augmentation strategies discussed in the [paper](https://arxiv.org
 Model
 ------------
 - Transfer Learning: Used two pre-trained inception v3 models on Imagenet to speed up the training process.  
-- Global Pooling: Applied GlobalMaxPooling layer after the inception model to significantly reduce parameters.  
+- Global Pooling: Applied GlobalAveragePooling layer after the inception model to significantly reduce parameters.  
 
 ![img](./photo/model.png)  
 
