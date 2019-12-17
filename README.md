@@ -1,7 +1,7 @@
 Detecting Cancer Metastases on Gigapixel Pathology Images
 ============
 
-> **Columbia Applied Deep Learning Course Project (Fall 2019)**  
+> **Columbia University Applied Deep Learning Course Project (Fall 2019)**  
 Author: Yingxiang Chen  
 Columbia Uni: yc3526
 
