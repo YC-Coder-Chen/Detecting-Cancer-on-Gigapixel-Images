@@ -3,7 +3,8 @@ Detecting Cancer Metastases on Gigapixel Pathology Images
 
 > **Columbia University Applied Deep Learning Course Project (Fall 2019)**  
 Author: Yingxiang Chen  
-Columbia Uni: yc3526
+Columbia Uni: yc3526  
+Video Demo: https://youtu.be/h6wJMuvgd4M
 
 Objective
 ------------
@@ -77,5 +78,6 @@ Final Deliverable
     - [Shared in Google drive](https://drive.google.com/file/d/1kt5kM_ZrFY7a_xUAha1VWU6nqpfjHUrv/view?usp=sharing)  
     - [Shared in Google storage](https://storage.cloud.google.com/adl-project-yc3526/weights-12-0.94.hdf5)  
 
-- Project Introduction
+- Project Introduction & Video Demo
     - [Pdf version](./ADL_Present_Final.pdf)
+    - [Youtube Video Demo](https://youtu.be/h6wJMuvgd4M)
